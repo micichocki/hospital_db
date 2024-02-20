@@ -1,1 +1,1 @@
-# hospital_db
+# DB of Hospital with MariaDB
